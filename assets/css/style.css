@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    padding: 0px 40px;
+    }
+    .datos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    }
+    .usuarios{
+    background: black;
+    color: white;
+    }
